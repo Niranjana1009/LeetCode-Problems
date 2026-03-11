@@ -33,4 +33,8 @@ This repository is primarily for personal learning, but suggestions, discussions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1009-complement-of-base-10-integer](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/1009-complement-of-base-10-integer/) | Easy |
 <!---LeetCode Topics End-->
