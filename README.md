@@ -36,6 +36,7 @@ This repository is primarily for personal learning, but suggestions, discussions
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -46,6 +47,7 @@ This repository is primarily for personal learning, but suggestions, discussions
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0055-jump-game/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,4 +61,5 @@ This repository is primarily for personal learning, but suggestions, discussions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 <!---LeetCode Topics End-->
