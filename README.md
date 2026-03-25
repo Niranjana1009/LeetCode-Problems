@@ -37,6 +37,7 @@ This repository is primarily for personal learning, but suggestions, discussions
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2906-construct-product-matrix](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -52,6 +53,7 @@ This repository is primarily for personal learning, but suggestions, discussions
 | [0518-coin-change-ii](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0518-coin-change-ii/) | Medium |
 | [0860-lemonade-change](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0860-lemonade-change/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [2906-construct-product-matrix](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Greedy
@@ -68,6 +70,7 @@ This repository is primarily for personal learning, but suggestions, discussions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [2906-construct-product-matrix](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Backtracking
