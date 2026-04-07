@@ -18,6 +18,7 @@ This repository is primarily for personal learning, but suggestions, discussions
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0076-minimum-window-substring/) | Hard |
+| [0560-subarray-sum-equals-k](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -40,6 +41,7 @@ This repository is primarily for personal learning, but suggestions, discussions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
@@ -57,6 +59,7 @@ This repository is primarily for personal learning, but suggestions, discussions
 | [0303-range-sum-query-immutable](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0312-burst-balloons](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0312-burst-balloons/) | Hard |
 | [0518-coin-change-ii](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0518-coin-change-ii/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0860-lemonade-change](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0860-lemonade-change/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/2906-construct-product-matrix/) | Medium |
