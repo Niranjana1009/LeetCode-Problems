@@ -39,6 +39,7 @@ This repository is primarily for personal learning, but suggestions, discussions
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [2906-construct-product-matrix](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
@@ -53,6 +54,7 @@ This repository is primarily for personal learning, but suggestions, discussions
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0039-combination-sum/) | Medium |
 | [0055-jump-game](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0055-jump-game/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0312-burst-balloons](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0312-burst-balloons/) | Hard |
 | [0518-coin-change-ii](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0518-coin-change-ii/) | Medium |
 | [0860-lemonade-change](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0860-lemonade-change/) | Easy |
@@ -96,4 +98,8 @@ This repository is primarily for personal learning, but suggestions, discussions
 | ------- | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
