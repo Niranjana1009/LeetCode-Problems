@@ -60,6 +60,7 @@ This repository is primarily for personal learning, but suggestions, discussions
 | [0312-burst-balloons](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0312-burst-balloons/) | Hard |
 | [0518-coin-change-ii](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0518-coin-change-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0739-daily-temperatures](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0739-daily-temperatures/) | Medium |
 | [0860-lemonade-change](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0860-lemonade-change/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/2906-construct-product-matrix/) | Medium |
@@ -105,4 +106,12 @@ This repository is primarily for personal learning, but suggestions, discussions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0739-daily-temperatures/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
