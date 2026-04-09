@@ -25,6 +25,7 @@ This repository is primarily for personal learning, but suggestions, discussions
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0076-minimum-window-substring/) | Hard |
+| [1143-longest-common-subsequence](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,6 +37,7 @@ This repository is primarily for personal learning, but suggestions, discussions
 | [0055-jump-game](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0055-jump-game/) | Medium |
 | [0312-burst-balloons](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0312-burst-balloons/) | Hard |
 | [0518-coin-change-ii](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0518-coin-change-ii/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/1143-longest-common-subsequence/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
