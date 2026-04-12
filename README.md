@@ -24,6 +24,7 @@ This repository is primarily for personal learning, but suggestions, discussions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0065-valid-number](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0065-valid-number/) | Hard |
 | [0076-minimum-window-substring](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0076-minimum-window-substring/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Sliding Window
