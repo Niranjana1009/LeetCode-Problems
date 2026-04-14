@@ -39,6 +39,7 @@ This repository is primarily for personal learning, but suggestions, discussions
 | [0312-burst-balloons](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0312-burst-balloons/) | Hard |
 | [0518-coin-change-ii](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0518-coin-change-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/1143-longest-common-subsequence/) | Medium |
+| [2463-minimum-total-distance-traveled](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -66,6 +67,7 @@ This repository is primarily for personal learning, but suggestions, discussions
 | [0739-daily-temperatures](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0739-daily-temperatures/) | Medium |
 | [0860-lemonade-change](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0860-lemonade-change/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [2463-minimum-total-distance-traveled](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2906-construct-product-matrix](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -80,6 +82,7 @@ This repository is primarily for personal learning, but suggestions, discussions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [2463-minimum-total-distance-traveled](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
