@@ -124,4 +124,5 @@ This repository is primarily for personal learning, but suggestions, discussions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0176-second-highest-salary/) | Medium |
+| [0182-duplicate-emails](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0182-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
