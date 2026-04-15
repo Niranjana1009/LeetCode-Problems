@@ -120,4 +120,8 @@ This repository is primarily for personal learning, but suggestions, discussions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0739-daily-temperatures/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0176-second-highest-salary](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0176-second-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
