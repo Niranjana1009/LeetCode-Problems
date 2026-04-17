@@ -128,6 +128,7 @@ This repository is primarily for personal learning, but suggestions, discussions
 | [0176-second-highest-salary](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0176-second-highest-salary/) | Medium |
 | [0182-duplicate-emails](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0183-customers-who-never-order/) | Easy |
+| [0607-sales-person](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0607-sales-person/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
