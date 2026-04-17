@@ -39,6 +39,7 @@ This repository is primarily for personal learning, but suggestions, discussions
 | [0070-climbing-stairs](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0198-house-robber/) | Medium |
 | [0312-burst-balloons](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0312-burst-balloons/) | Hard |
+| [0322-coin-change](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0518-coin-change-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -66,6 +67,7 @@ This repository is primarily for personal learning, but suggestions, discussions
 | [0198-house-robber](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0198-house-robber/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0312-burst-balloons](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0312-burst-balloons/) | Hard |
+| [0322-coin-change](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0518-coin-change-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0739-daily-temperatures](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0739-daily-temperatures/) | Medium |
@@ -142,4 +144,8 @@ This repository is primarily for personal learning, but suggestions, discussions
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0509-fibonacci-number/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
