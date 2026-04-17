@@ -37,6 +37,7 @@ This repository is primarily for personal learning, but suggestions, discussions
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0070-climbing-stairs/) | Easy |
+| [0198-house-robber](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0198-house-robber/) | Medium |
 | [0312-burst-balloons](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0312-burst-balloons/) | Hard |
 | [0509-fibonacci-number](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0518-coin-change-ii/) | Medium |
@@ -62,6 +63,7 @@ This repository is primarily for personal learning, but suggestions, discussions
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0039-combination-sum/) | Medium |
 | [0055-jump-game](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0055-jump-game/) | Medium |
+| [0198-house-robber](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0198-house-robber/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0312-burst-balloons](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0312-burst-balloons/) | Hard |
 | [0518-coin-change-ii](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0518-coin-change-ii/) | Medium |
