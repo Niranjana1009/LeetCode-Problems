@@ -37,6 +37,7 @@ This repository is primarily for personal learning, but suggestions, discussions
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0055-jump-game/) | Medium |
 | [0312-burst-balloons](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0312-burst-balloons/) | Hard |
+| [0509-fibonacci-number](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0518-coin-change-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/1143-longest-common-subsequence/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -103,6 +104,7 @@ This repository is primarily for personal learning, but suggestions, discussions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0509-fibonacci-number](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,4 +128,12 @@ This repository is primarily for personal learning, but suggestions, discussions
 | [0176-second-highest-salary](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0176-second-highest-salary/) | Medium |
 | [0182-duplicate-emails](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0183-customers-who-never-order/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
