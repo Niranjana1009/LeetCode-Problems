@@ -25,6 +25,7 @@ This repository is primarily for personal learning, but suggestions, discussions
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0065-valid-number](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0065-valid-number/) | Hard |
+| [0072-edit-distance](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0076-minimum-window-substring/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Sliding Window
@@ -37,6 +38,7 @@ This repository is primarily for personal learning, but suggestions, discussions
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0072-edit-distance/) | Medium |
 | [0198-house-robber](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0198-house-robber/) | Medium |
 | [0312-burst-balloons](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0312-burst-balloons/) | Hard |
 | [0322-coin-change](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0322-coin-change/) | Medium |
