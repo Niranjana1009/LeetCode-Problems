@@ -44,6 +44,7 @@ This repository is primarily for personal learning, but suggestions, discussions
 | [0322-coin-change](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0518-coin-change-ii/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/1143-longest-common-subsequence/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
@@ -73,6 +74,7 @@ This repository is primarily for personal learning, but suggestions, discussions
 | [0518-coin-change-ii](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0518-coin-change-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0739-daily-temperatures](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0739-daily-temperatures/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0860-lemonade-change](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/0860-lemonade-change/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Niranjana1009/LeetCode-Problems/tree/main/2463-minimum-total-distance-traveled/) | Hard |
